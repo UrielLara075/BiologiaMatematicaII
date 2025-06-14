@@ -5,3 +5,6 @@ Por el tamaño de los archivos, los resultados de las simulaciones se encuentran
 
 ## Miniproyecto 2
 La carpeta *Miniproyecto 2* incluye los archivos trabajados en este, incluyendo un PDF con una descripción del procedimiento.
+
+## Proyecto final
+La carpeta *Proyecto final* incluye los archivos trabajados en este, incluyendo el reporte en PDF, y un archivo de NetLogo con el modelo creado.
