@@ -3,6 +3,7 @@
 Collection of mathematical modeling projects developed for the Mathematical Biology II course. This repository includes simulations, data analysis, and reports focused on biological systems.
 
 ## Author
+
 Uriel Alejandro Lara Estrada.
 
 B.Sc. in Mathematics (coursework completed, thesis in progress)
@@ -40,4 +41,4 @@ Adaptation of a continuous model from the literature into a discrete agent-based
 **Files:**
 
 - Report: ``Ant_Trail_Selection_Report.pdf``
-- Simulation: ``AntsNetwork.nlogo``
+- Simulation: `AntsNetwork.nlogo`
