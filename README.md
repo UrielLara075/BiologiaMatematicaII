@@ -20,7 +20,7 @@ Simulation of wildfire spread under different environmental conditions on a grid
 
 - Report: `Wildfire_Propagation_Report.pdf`
 - Python script: `threshold.ipynb`
-- Visual output: `output_v1.png' to 'output_v_3.png`
+- Visual output: `output_v1.png` to `output_v_3.png`
 - Various iterations of the simulation: ``Fire_v1.nlogo`` to `Fire_v3.nlogo`
 - Base model: `Fire.nlogo`
 - [Simulation results](https://drive.google.com/drive/folders/1lMz77mPqmsNFcQdjFWOKNuf6jusvXEqF?usp=sharing) (stored externally)
