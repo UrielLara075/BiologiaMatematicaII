@@ -21,7 +21,7 @@ Implementation and analysis of a mathematical model describing reproduction cycl
 
 #### Files:
 - Report: Cidada_synchronization_report.pdf
-- Multiple interpretation of the model present in literature: cicada_v1.ipynb to v3
+- Multiple interpretations of the model present in literature: cicada_v1.ipynb to v3
 
 ### Ant trail selection
 Adaptation of a continous model from the literature into a discrete agent-based simulation of ant shortest path selection through pheromone trails.
